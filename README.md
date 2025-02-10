@@ -17,6 +17,7 @@ Before you begin, ensure you have the following installed:
 First, clone the repository to your local machine. Open your terminal and run:
 
 git clone https://github.com/Aditya-Bhargav-dev/BlazorTaskApp.git
+
 cd BlazorTaskApp
 
 #### 2. Configure the Database Connection
