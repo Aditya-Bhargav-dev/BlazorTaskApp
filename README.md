@@ -29,6 +29,8 @@ Update the `appsettings.json` file with your local database configuration. Chang
 
 "Server=LocalDB;Database=BlazorTasksContext;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=true"
 
+Best choice - Run the solution file "BlazorTaskApp.sln" in Visual Studio
+
 
 ### 🚀 Features
 
